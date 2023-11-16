@@ -1,9 +1,9 @@
 # Sistema de Matricula Escolar
-Aula de POO - projeto 3
+Disciplina de Programação Orientada a Objetos - Projeto 3
 
 # Sobre o projeto
 
-O Sistema de Matricula Escolar tem como objetivo automatizar o processo da matricula dos alunos em suas respectivas escolas, de acordo com a localização. O projeto foi desenvolvido em JAVA utilizando Spring Boot. Na fase atual de desenvolvimento, foi criada uma API, onde os dados inseridos serão armazenados em um banco de dados na memório do computador e disponibilizados na rede local (localhost), será possível acessar os dados dos alunos e das escolas, como os alunos que foram matriculados em suas respectivas escolas de acordo com atribuição manual do usuário. Em futuras atualizações, o sistema será automatizado, de forma que a matricula seja feita de acordo com a proximidade do aluno com a escola.
+O Sistema de Matricula Escolar tem como objetivo automatizar o processo da matricula dos alunos em suas respectivas escolas, de acordo com a localização. O projeto foi desenvolvido em JAVA utilizando Spring Boot. Na fase atual de desenvolvimento, foi criada uma API, onde os dados inseridos serão armazenados em um banco de dados na memório do computador e disponibilizados na rede local (localhost), será possível acessar os dados dos alunos e das escolas. Em futuras atualizações, o sistema será automatizado, de forma que a matricula seja feita de acordo com a proximidade do aluno com a escola.
 
 Público-Alvo:
 O sistema atende aos administradores responsáveis por realizar a matricula de alunos em escolas públicas municipais.
